@@ -1,0 +1,48 @@
+{
+  "source": "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/You-re-Cancelled/Views/RequestsFromOthersView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Cancel Requests",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 23
+        }
+      },
+      {
+        "comment": "",
+        "key": "No Requests",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 28
+        }
+      },
+      {
+        "comment": "",
+        "key": "No one has asked to cancel yet",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 30
+        }
+      },
+      {
+        "comment": "",
+        "key": "wants to cancel",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 66
+        }
+      },
+      {
+        "comment": "",
+        "key": "Respond",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 75
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,32 @@
+{
+  "source": "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/You-re-Cancelled/Views/FeedbackView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Close",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 73
+        }
+      },
+      {
+        "comment": "",
+        "key": "Maybe send them a message?",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 29
+        }
+      },
+      {
+        "comment": "",
+        "key": "Send Apology",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 37
+        }
+      }
+    ]
+  },
+  "version": 1
+}

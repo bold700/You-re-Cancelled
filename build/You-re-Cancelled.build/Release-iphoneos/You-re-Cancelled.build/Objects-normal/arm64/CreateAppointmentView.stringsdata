@@ -1,0 +1,40 @@
+{
+  "source": "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/You-re-Cancelled/Views/CreateAppointmentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "New Appointment",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 38
+        }
+      },
+      {
+        "comment": "",
+        "key": "What's the plan?",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 12
+        }
+      },
+      {
+        "comment": "",
+        "key": "Create Appointment",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 25
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 42
+        }
+      }
+    ]
+  },
+  "version": 1
+}

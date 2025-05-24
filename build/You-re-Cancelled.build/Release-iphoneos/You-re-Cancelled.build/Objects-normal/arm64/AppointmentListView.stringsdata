@@ -1,0 +1,112 @@
+{
+  "source": "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/You-re-Cancelled/Views/AppointmentListView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "You're Cancelled",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 105
+        }
+      },
+      {
+        "comment": "",
+        "key": "Waiting for response...",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 17
+        }
+      },
+      {
+        "comment": "",
+        "key": "My Cancel Requests",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 30
+        }
+      },
+      {
+        "comment": "",
+        "key": "You understood",
+        "location": {
+          "startingColumn": 68,
+          "startingLine": 55
+        }
+      },
+      {
+        "comment": "",
+        "key": "You were disappointed",
+        "location": {
+          "startingColumn": 87,
+          "startingLine": 55
+        }
+      },
+      {
+        "comment": "",
+        "key": "I understand",
+        "location": {
+          "startingColumn": 44,
+          "startingLine": 44
+        }
+      },
+      {
+        "comment": "",
+        "key": "I'm disappointed",
+        "location": {
+          "startingColumn": 44,
+          "startingLine": 49
+        }
+      },
+      {
+        "comment": "",
+        "key": "Requests from Others",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 63
+        }
+      },
+      {
+        "comment": "",
+        "key": "Ask to Cancel",
+        "location": {
+          "startingColumn": 43,
+          "startingLine": 79
+        }
+      },
+      {
+        "comment": "",
+        "key": "My Appointments",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 87
+        }
+      },
+      {
+        "comment": "",
+        "key": "No Appointments",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 93
+        }
+      },
+      {
+        "comment": "",
+        "key": "Create a new appointment to get started",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 95
+        }
+      },
+      {
+        "comment": "",
+        "key": "Create Appointment",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 100
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,32 @@
+{
+  "source": "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/You-re-Cancelled/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Overview",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 42
+        }
+      },
+      {
+        "comment": "",
+        "key": "My Cancels",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 50
+        }
+      },
+      {
+        "comment": "",
+        "key": "Requests",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 58
+        }
+      }
+    ]
+  },
+  "version": 1
+}

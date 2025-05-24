@@ -1,0 +1,100 @@
+{
+  "" : {
+    "const-values" : "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/build/You-re-Cancelled.build/Release-iphoneos/You-re-Cancelled.build/Objects-normal/arm64/You-re-Cancelled-master.swiftconstvalues",
+    "dependencies" : "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/build/You-re-Cancelled.build/Release-iphoneos/You-re-Cancelled.build/Objects-normal/arm64/You-re-Cancelled-master.d",
+    "diagnostics" : "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/build/You-re-Cancelled.build/Release-iphoneos/You-re-Cancelled.build/Objects-normal/arm64/You-re-Cancelled-master.dia",
+    "emit-module-dependencies" : "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/build/You-re-Cancelled.build/Release-iphoneos/You-re-Cancelled.build/Objects-normal/arm64/You-re-Cancelled-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/build/You-re-Cancelled.build/Release-iphoneos/You-re-Cancelled.build/Objects-normal/arm64/You-re-Cancelled-master-emit-module.dia",
+    "swift-dependencies" : "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/build/You-re-Cancelled.build/Release-iphoneos/You-re-Cancelled.build/Objects-normal/arm64/You-re-Cancelled-master.swiftdeps"
+  },
+  "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/You-re-Cancelled/ContentView.swift" : {
+    "index-unit-output-path" : "/You-re-Cancelled.build/Release-iphoneos/You-re-Cancelled.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/build/You-re-Cancelled.build/Release-iphoneos/You-re-Cancelled.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/build/You-re-Cancelled.build/Release-iphoneos/You-re-Cancelled.build/Objects-normal/arm64/ContentView.o"
+  },
+  "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/You-re-Cancelled/Models/ActivityItem.swift" : {
+    "index-unit-output-path" : "/You-re-Cancelled.build/Release-iphoneos/You-re-Cancelled.build/Objects-normal/arm64/ActivityItem.o",
+    "llvm-bc" : "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/build/You-re-Cancelled.build/Release-iphoneos/You-re-Cancelled.build/Objects-normal/arm64/ActivityItem.bc",
+    "object" : "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/build/You-re-Cancelled.build/Release-iphoneos/You-re-Cancelled.build/Objects-normal/arm64/ActivityItem.o"
+  },
+  "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/You-re-Cancelled/Models/FeedbackMessage.swift" : {
+    "index-unit-output-path" : "/You-re-Cancelled.build/Release-iphoneos/You-re-Cancelled.build/Objects-normal/arm64/FeedbackMessage.o",
+    "llvm-bc" : "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/build/You-re-Cancelled.build/Release-iphoneos/You-re-Cancelled.build/Objects-normal/arm64/FeedbackMessage.bc",
+    "object" : "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/build/You-re-Cancelled.build/Release-iphoneos/You-re-Cancelled.build/Objects-normal/arm64/FeedbackMessage.o"
+  },
+  "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/You-re-Cancelled/Models/Models.swift" : {
+    "index-unit-output-path" : "/You-re-Cancelled.build/Release-iphoneos/You-re-Cancelled.build/Objects-normal/arm64/Models.o",
+    "llvm-bc" : "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/build/You-re-Cancelled.build/Release-iphoneos/You-re-Cancelled.build/Objects-normal/arm64/Models.bc",
+    "object" : "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/build/You-re-Cancelled.build/Release-iphoneos/You-re-Cancelled.build/Objects-normal/arm64/Models.o"
+  },
+  "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/You-re-Cancelled/ViewModels/CancelViewModel.swift" : {
+    "index-unit-output-path" : "/You-re-Cancelled.build/Release-iphoneos/You-re-Cancelled.build/Objects-normal/arm64/CancelViewModel.o",
+    "llvm-bc" : "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/build/You-re-Cancelled.build/Release-iphoneos/You-re-Cancelled.build/Objects-normal/arm64/CancelViewModel.bc",
+    "object" : "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/build/You-re-Cancelled.build/Release-iphoneos/You-re-Cancelled.build/Objects-normal/arm64/CancelViewModel.o"
+  },
+  "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/You-re-Cancelled/Views/AppointmentListView.swift" : {
+    "index-unit-output-path" : "/You-re-Cancelled.build/Release-iphoneos/You-re-Cancelled.build/Objects-normal/arm64/AppointmentListView.o",
+    "llvm-bc" : "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/build/You-re-Cancelled.build/Release-iphoneos/You-re-Cancelled.build/Objects-normal/arm64/AppointmentListView.bc",
+    "object" : "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/build/You-re-Cancelled.build/Release-iphoneos/You-re-Cancelled.build/Objects-normal/arm64/AppointmentListView.o"
+  },
+  "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/You-re-Cancelled/Views/CancelRequestSheet.swift" : {
+    "index-unit-output-path" : "/You-re-Cancelled.build/Release-iphoneos/You-re-Cancelled.build/Objects-normal/arm64/CancelRequestSheet.o",
+    "llvm-bc" : "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/build/You-re-Cancelled.build/Release-iphoneos/You-re-Cancelled.build/Objects-normal/arm64/CancelRequestSheet.bc",
+    "object" : "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/build/You-re-Cancelled.build/Release-iphoneos/You-re-Cancelled.build/Objects-normal/arm64/CancelRequestSheet.o"
+  },
+  "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/You-re-Cancelled/Views/CancelRequestsView.swift" : {
+    "index-unit-output-path" : "/You-re-Cancelled.build/Release-iphoneos/You-re-Cancelled.build/Objects-normal/arm64/CancelRequestsView.o",
+    "llvm-bc" : "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/build/You-re-Cancelled.build/Release-iphoneos/You-re-Cancelled.build/Objects-normal/arm64/CancelRequestsView.bc",
+    "object" : "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/build/You-re-Cancelled.build/Release-iphoneos/You-re-Cancelled.build/Objects-normal/arm64/CancelRequestsView.o"
+  },
+  "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/You-re-Cancelled/Views/Components/StatsCardView.swift" : {
+    "index-unit-output-path" : "/You-re-Cancelled.build/Release-iphoneos/You-re-Cancelled.build/Objects-normal/arm64/StatsCardView.o",
+    "llvm-bc" : "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/build/You-re-Cancelled.build/Release-iphoneos/You-re-Cancelled.build/Objects-normal/arm64/StatsCardView.bc",
+    "object" : "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/build/You-re-Cancelled.build/Release-iphoneos/You-re-Cancelled.build/Objects-normal/arm64/StatsCardView.o"
+  },
+  "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/You-re-Cancelled/Views/ConfettiView.swift" : {
+    "index-unit-output-path" : "/You-re-Cancelled.build/Release-iphoneos/You-re-Cancelled.build/Objects-normal/arm64/ConfettiView.o",
+    "llvm-bc" : "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/build/You-re-Cancelled.build/Release-iphoneos/You-re-Cancelled.build/Objects-normal/arm64/ConfettiView.bc",
+    "object" : "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/build/You-re-Cancelled.build/Release-iphoneos/You-re-Cancelled.build/Objects-normal/arm64/ConfettiView.o"
+  },
+  "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/You-re-Cancelled/Views/CreateAppointmentView.swift" : {
+    "index-unit-output-path" : "/You-re-Cancelled.build/Release-iphoneos/You-re-Cancelled.build/Objects-normal/arm64/CreateAppointmentView.o",
+    "llvm-bc" : "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/build/You-re-Cancelled.build/Release-iphoneos/You-re-Cancelled.build/Objects-normal/arm64/CreateAppointmentView.bc",
+    "object" : "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/build/You-re-Cancelled.build/Release-iphoneos/You-re-Cancelled.build/Objects-normal/arm64/CreateAppointmentView.o"
+  },
+  "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/You-re-Cancelled/Views/FeedbackView.swift" : {
+    "index-unit-output-path" : "/You-re-Cancelled.build/Release-iphoneos/You-re-Cancelled.build/Objects-normal/arm64/FeedbackView.o",
+    "llvm-bc" : "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/build/You-re-Cancelled.build/Release-iphoneos/You-re-Cancelled.build/Objects-normal/arm64/FeedbackView.bc",
+    "object" : "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/build/You-re-Cancelled.build/Release-iphoneos/You-re-Cancelled.build/Objects-normal/arm64/FeedbackView.o"
+  },
+  "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/You-re-Cancelled/Views/MyCancellationsView.swift" : {
+    "index-unit-output-path" : "/You-re-Cancelled.build/Release-iphoneos/You-re-Cancelled.build/Objects-normal/arm64/MyCancellationsView.o",
+    "llvm-bc" : "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/build/You-re-Cancelled.build/Release-iphoneos/You-re-Cancelled.build/Objects-normal/arm64/MyCancellationsView.bc",
+    "object" : "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/build/You-re-Cancelled.build/Release-iphoneos/You-re-Cancelled.build/Objects-normal/arm64/MyCancellationsView.o"
+  },
+  "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/You-re-Cancelled/Views/OverviewView.swift" : {
+    "index-unit-output-path" : "/You-re-Cancelled.build/Release-iphoneos/You-re-Cancelled.build/Objects-normal/arm64/OverviewView.o",
+    "llvm-bc" : "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/build/You-re-Cancelled.build/Release-iphoneos/You-re-Cancelled.build/Objects-normal/arm64/OverviewView.bc",
+    "object" : "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/build/You-re-Cancelled.build/Release-iphoneos/You-re-Cancelled.build/Objects-normal/arm64/OverviewView.o"
+  },
+  "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/You-re-Cancelled/Views/RequestsFromOthersView.swift" : {
+    "index-unit-output-path" : "/You-re-Cancelled.build/Release-iphoneos/You-re-Cancelled.build/Objects-normal/arm64/RequestsFromOthersView.o",
+    "llvm-bc" : "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/build/You-re-Cancelled.build/Release-iphoneos/You-re-Cancelled.build/Objects-normal/arm64/RequestsFromOthersView.bc",
+    "object" : "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/build/You-re-Cancelled.build/Release-iphoneos/You-re-Cancelled.build/Objects-normal/arm64/RequestsFromOthersView.o"
+  },
+  "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/You-re-Cancelled/Views/ResponseView.swift" : {
+    "index-unit-output-path" : "/You-re-Cancelled.build/Release-iphoneos/You-re-Cancelled.build/Objects-normal/arm64/ResponseView.o",
+    "llvm-bc" : "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/build/You-re-Cancelled.build/Release-iphoneos/You-re-Cancelled.build/Objects-normal/arm64/ResponseView.bc",
+    "object" : "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/build/You-re-Cancelled.build/Release-iphoneos/You-re-Cancelled.build/Objects-normal/arm64/ResponseView.o"
+  },
+  "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/You-re-Cancelled/You_re_CancelledApp.swift" : {
+    "index-unit-output-path" : "/You-re-Cancelled.build/Release-iphoneos/You-re-Cancelled.build/Objects-normal/arm64/You_re_CancelledApp.o",
+    "llvm-bc" : "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/build/You-re-Cancelled.build/Release-iphoneos/You-re-Cancelled.build/Objects-normal/arm64/You_re_CancelledApp.bc",
+    "object" : "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/build/You-re-Cancelled.build/Release-iphoneos/You-re-Cancelled.build/Objects-normal/arm64/You_re_CancelledApp.o"
+  },
+  "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/build/You-re-Cancelled.build/Release-iphoneos/You-re-Cancelled.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "index-unit-output-path" : "/You-re-Cancelled.build/Release-iphoneos/You-re-Cancelled.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/build/You-re-Cancelled.build/Release-iphoneos/You-re-Cancelled.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/build/You-re-Cancelled.build/Release-iphoneos/You-re-Cancelled.build/Objects-normal/arm64/GeneratedAssetSymbols.o"
+  }
+}

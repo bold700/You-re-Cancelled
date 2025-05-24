@@ -1,0 +1,23 @@
+version: "Apple Swift version 6.1 (swiftlang-6.1.0.110.21 clang-1700.0.13.3)"
+options: "04892594050348dac3d9822c6f0758f69cb1993eabde60dd54f6b03219dc55b1"
+build_start_time: [1748096262, 606184000]
+build_end_time: [1748096270, 383450000]
+inputs:
+  "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/You-re-Cancelled/ContentView.swift": [1748095041, 943867278]
+  "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/You-re-Cancelled/Models/ActivityItem.swift": [1748095056, 881730993]
+  "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/You-re-Cancelled/Models/Models.swift": [1748095649, 501929304]
+  "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/You-re-Cancelled/ViewModels/CancelViewModel.swift": [1748095623, 754663971]
+  "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/You-re-Cancelled/Views/AppointmentListView.swift": [1748096248, 629034255]
+  "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/You-re-Cancelled/Views/CancelRequestSheet.swift": [1748094327, 602292019]
+  "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/You-re-Cancelled/Views/CancelRequestsView.swift": [1748096226, 483504183]
+  "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/You-re-Cancelled/Views/Components/StatsCardView.swift": [1748095067, 271072639]
+  "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/You-re-Cancelled/Views/ConfettiView.swift": [1748067403, 507229328]
+  "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/You-re-Cancelled/Views/CreateAppointmentView.swift": [1748094316, 717088602]
+  "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/You-re-Cancelled/Views/FeedbackView.swift": [1748088148, 330851993]
+  "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/You-re-Cancelled/Views/MyCancellationsView.swift": [1748094280, 804134425]
+  "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/You-re-Cancelled/Views/OverviewView.swift": [1748095514, 102905810]
+  "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/You-re-Cancelled/Views/RequestsFromOthersView.swift": [1748094305, 739795350]
+  "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/You-re-Cancelled/Views/ResponseView.swift": [1748094450, 988231152]
+  "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/You-re-Cancelled/You_re_CancelledApp.swift": [1748063853, 274171075]
+  ? "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/build/You-re-Cancelled.build/Release-iphoneos/You-re-Cancelled.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : [1748095702, 954749820]

@@ -1,0 +1,112 @@
+{
+  "source": "/Users/kennytimmer/Documents/GitHub/You-re-Cancelled/You-re-Cancelled/Views/CancelRequestsView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Cancel Requests",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 42
+        }
+      },
+      {
+        "comment": "",
+        "key": "You understood",
+        "location": {
+          "startingColumn": 64,
+          "startingLine": 27
+        }
+      },
+      {
+        "comment": "",
+        "key": "You were disappointed",
+        "location": {
+          "startingColumn": 83,
+          "startingLine": 27
+        }
+      },
+      {
+        "comment": "",
+        "key": "I understand",
+        "location": {
+          "startingColumn": 40,
+          "startingLine": 16
+        }
+      },
+      {
+        "comment": "",
+        "key": "I'm disappointed",
+        "location": {
+          "startingColumn": 40,
+          "startingLine": 21
+        }
+      },
+      {
+        "comment": "",
+        "key": "No Requests",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 36
+        }
+      },
+      {
+        "comment": "",
+        "key": "No one has asked to cancel yet",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 38
+        }
+      },
+      {
+        "comment": "",
+        "key": "Someone wants out... 👀",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 67
+        }
+      },
+      {
+        "comment": "",
+        "key": "Previous Dramas 🎭",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 78
+        }
+      },
+      {
+        "comment": "",
+        "key": "All Good!",
+        "location": {
+          "startingColumn": 19,
+          "startingLine": 103
+        }
+      },
+      {
+        "comment": "",
+        "key": "No one is trying to cancel on you (yet) 😌",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 105
+        }
+      },
+      {
+        "comment": "",
+        "key": "From: Your Friend",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 122
+        }
+      },
+      {
+        "comment": "",
+        "key": "Respond",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 131
+        }
+      }
+    ]
+  },
+  "version": 1
+}
