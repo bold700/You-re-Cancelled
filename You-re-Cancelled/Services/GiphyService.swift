@@ -2,7 +2,7 @@ import Foundation
 import UIKit
 
 actor GiphyService {
-    private let apiKey = "we1gMeESEexSKi5LfmCEYTObLmAvq4O8"
+    private let apiKey = "GlVGYHkr3WSBnllca54iNt0yFbjz7L65"
     private let baseURL = "https://api.giphy.com/v1/gifs"
     private var currentOffset: [String: Int] = [:]
     private let gifsPerPage = 25
